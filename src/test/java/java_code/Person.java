@@ -3,5 +3,7 @@ package java_code;
 public class Person {
    private int age;
    private String firstname;
+   private String address;
+   
 
 }
