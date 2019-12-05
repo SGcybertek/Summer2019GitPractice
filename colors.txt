@@ -7,3 +7,4 @@ navy blue
 pink
 white
 cyan
+Azure
