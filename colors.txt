@@ -10,3 +10,5 @@ cyan
 Azure
 French rose
 Fuchsia
+French violet
+Flame
