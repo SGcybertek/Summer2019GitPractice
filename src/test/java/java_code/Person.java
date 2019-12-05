@@ -1,9 +1,11 @@
 package java_code;
 
+
 public class Person {
    private int age;
-   private String firstname;
-   private String address;
-   
 
+
+   public Person(int age){
+      this.age=age;
+   }
 }
