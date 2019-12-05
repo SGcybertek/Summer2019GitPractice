@@ -7,4 +7,4 @@ navy blue
 pink
 white
 cyan
-12345
+Azure
