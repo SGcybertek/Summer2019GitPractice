@@ -8,3 +8,4 @@ pink
 white
 cyan
 Azure
+French rose
